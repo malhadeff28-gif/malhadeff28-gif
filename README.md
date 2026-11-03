@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Max — ideas into useful things. AI tools, data, and things worth building." width="100%" />
+  <img src="./assets/profile-header.svg" alt="Max — get more from powerful AI. Tools and workflows for power users." width="100%" />
 </p>
 
+I build and explore tools that help power users get more from leading AI models and the subscriptions they already have.
+
 ### Selected projects
+
+<a href="https://github.com/malhadeff28-gif/switchboard"><img src="./assets/project-switchboard.svg" alt="Switchboard — a local workspace for managing Codex and Claude projects and chats." width="100%" /></a>
 
 <a href="https://github.com/malhadeff28-gif/notion-agent-connector"><img src="./assets/project-notion.svg" alt="Notion Agent Connector — a headless connector for searching and navigating Notion with AI agents." width="100%" /></a>
 
@@ -22,5 +26,5 @@
 
 ### Exploring
 
-[Switchboard](https://github.com/malhadeff28-gif/switchboard-community) · Fork of a desktop app for organizing Codex and Claude Code sessions.  
+[Switchboard Community](https://github.com/malhadeff28-gif/switchboard-community) · Fork of a separate desktop app for organizing Codex and Claude Code sessions.  
 [UI/UX Pro Max](https://github.com/malhadeff28-gif/ui-ux-pro-max-skill) · Fork of a design intelligence toolkit.
