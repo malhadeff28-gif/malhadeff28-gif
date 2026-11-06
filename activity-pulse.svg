@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
 <title id="title">Max's activity pulse</title>
-<desc id="desc">GitHub public contribution activity for the last 30 days: 21 contributions across 4 days, with a peak of 10 in one day. Updated Nov 05, 2026 UTC.</desc>
+<desc id="desc">GitHub public contribution activity for the last 30 days: 21 contributions across 4 days, with a peak of 10 in one day. Updated Nov 06, 2026 UTC.</desc>
 <defs><linearGradient id="trace"><stop stop-color="#22c55e" stop-opacity=".45"/><stop offset=".5" stop-color="#4ade80"/><stop offset="1" stop-color="#22c55e" stop-opacity=".65"/></linearGradient></defs>
 <rect width="1200" height="420" rx="4" fill="#0a1310"/>
 <circle cx="76" cy="60" r="4" fill="#4ade80"/>
 <text x="92" y="64" font-family="monospace" font-size="11" fill="#4ade80" letter-spacing="3">MAX / ACTIVITY PULSE</text>
-<text x="1128" y="64" text-anchor="end" font-family="monospace" font-size="10" fill="#72a684" letter-spacing="2">UPDATED NOV 05, 2026 · UTC</text>
+<text x="1128" y="64" text-anchor="end" font-family="monospace" font-size="10" fill="#72a684" letter-spacing="2">UPDATED NOV 06, 2026 · UTC</text>
 <text x="72" y="118" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#dcfce7">Building in public.</text>
 <line x1="72" y1="132" x2="196" y2="132" stroke="#4ade80" stroke-width="2"/>
 <text x="72" y="156" font-family="monospace" font-size="12" fill="#8db79a">Public GitHub contributions · last 30 days</text>
 <line x1="72" y1="253" x2="1128" y2="253" stroke="#1a3b27"/>
-<polyline points="72.0,253.0 108.4,253.0 144.8,253.0 181.2,253.0 217.7,253.0 254.1,253.0 290.5,253.0 326.9,226.6 363.3,226.6 399.7,253.0 436.1,253.0 472.6,253.0 509.0,253.0 545.4,253.0 581.8,253.0 618.2,253.0 654.6,253.0 691.0,253.0 727.4,253.0 763.9,253.0 800.3,253.0 836.7,253.0 873.1,253.0 909.5,253.0 945.9,253.0 982.3,253.0 1018.8,253.0 1055.2,209.0 1091.6,165.0 1128.0,253.0" fill="none" stroke="url(#trace)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="72.0,253.0 108.4,253.0 144.8,253.0 181.2,253.0 217.7,253.0 254.1,253.0 290.5,226.6 326.9,226.6 363.3,253.0 399.7,253.0 436.1,253.0 472.6,253.0 509.0,253.0 545.4,253.0 581.8,253.0 618.2,253.0 654.6,253.0 691.0,253.0 727.4,253.0 763.9,253.0 800.3,253.0 836.7,253.0 873.1,253.0 909.5,253.0 945.9,253.0 982.3,253.0 1018.8,209.0 1055.2,165.0 1091.6,253.0 1128.0,253.0" fill="none" stroke="url(#trace)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="1128" cy="253.0" r="4" fill="#bbf7d0"/>
 <line x1="72" y1="302" x2="1128" y2="302" stroke="#1a3b27"/>
 <g font-family="monospace"><text x="72" y="330" font-size="10" fill="#79a889" letter-spacing="2">CONTRIBUTIONS</text><text x="72" y="360" font-size="22" font-weight="bold" fill="#dcfce7">21</text><text x="72" y="383" font-size="11" fill="#79a889">last 30 days</text>
