@@ -14,8 +14,6 @@ I build and explore tools that help power users get more from leading AI models 
 
 <a href="https://github.com/malhadeff28-gif/fantasy-football"><img src="./assets/project-fantasy.svg" alt="Fantasy Football Lab — research on QB pairing, defense streaming, and running back risk." width="100%" /></a>
 
-<a href="https://github.com/malhadeff28-gif/cre-front-office-command-center"><img src="./assets/project-front-office.svg" alt="Front Office Command Center — a prototype dashboard for commercial real estate operations." width="100%" /></a>
-
 ### Activity pulse
 
 <p align="center">
