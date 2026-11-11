@@ -4,7 +4,7 @@ I build tools with AI coding agents. Most start with something I want to do in m
 
 ### Switchboard
 
-A local workspace for people running several Codex or Claude projects at once. Send a prompt and the queue moves to the next ready chat. Each project keeps its goal, decisions, and next action. The built-in demo lets you try the workflow with three sample projects. [See the demo screen](https://github.com/malhadeff28-gif/switchboard/blob/main/docs/demo.png) · [Run Switchboard](https://github.com/malhadeff28-gif/switchboard#run)
+A local workspace for people running several Codex or Claude projects at once. With Send & move on enabled, sending a prompt moves you to the next ready chat. Each project keeps its goal, decisions, and next action. The built-in demo lets you try the workflow with three sample projects. [See the demo screen](https://github.com/malhadeff28-gif/switchboard/blob/main/docs/demo.png) · [Run Switchboard](https://github.com/malhadeff28-gif/switchboard#run)
 
 ### Notion Agent Connector
 
