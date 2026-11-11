@@ -1,28 +1,19 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" alt="Max — get more from powerful AI. Tools and workflows for power users." width="100%" />
-</p>
+<p><img src="./assets/profile-header.svg" alt="Max" width="100%" /></p>
 
-I build and explore tools that help power users get more from leading AI models and the subscriptions they already have.
+I build tools with AI coding agents. Most start with something I want to do in my own work. For Switchboard, I wanted to send a prompt, move to another project while the agent worked, and come back knowing which decision needed me next. I set the product direction and use Codex and Claude to help implement and test it.
 
-### Selected projects
+### Switchboard
 
-<a href="https://github.com/malhadeff28-gif/switchboard"><img src="./assets/project-switchboard.svg" alt="Switchboard — a local workspace for managing Codex and Claude projects and chats." width="100%" /></a>
+A local workspace for people running several Codex or Claude projects at once. Send a prompt and the queue moves to the next ready chat. Each project keeps its goal, decisions, and next action. The built-in demo lets you try the workflow with three sample projects. [See the demo screen](https://github.com/malhadeff28-gif/switchboard/blob/main/docs/demo.png) · [Run Switchboard](https://github.com/malhadeff28-gif/switchboard#run)
 
-<a href="https://github.com/malhadeff28-gif/notion-agent-connector"><img src="./assets/project-notion.svg" alt="Notion Agent Connector — a headless connector for searching and navigating Notion with AI agents." width="100%" /></a>
+### Notion Agent Connector
 
-<a href="https://github.com/malhadeff28-gif/NFL--Pass-or-Run"><img src="./assets/project-nfl.svg" alt="NFL Play-Call Predictor — predicting pass or run from the situation before the snap." width="100%" /></a>
+An agent searching a Notion workspace needs to show where its answer came from. This connector returns cited passages and checks the source pages again before handing them back. In a recorded live check, it retrieved three passages from two pages in one workspace. [Read the verification record](https://github.com/malhadeff28-gif/notion-agent-connector/blob/main/verification.json) · [Explore the connector](https://github.com/malhadeff28-gif/notion-agent-connector)
 
-<a href="https://github.com/malhadeff28-gif/fantasy-football"><img src="./assets/project-fantasy.svg" alt="Fantasy Football Lab — research on QB pairing, defense streaming, and running back risk." width="100%" /></a>
+### YourTube
 
-### Activity pulse
+An early local prototype for finding videos about whatever I'm working on. When enabled, it takes a new Codex chat message, derives a general search phrase, and adds videos to a project feed. The public version starts paused. [See how it works](https://github.com/malhadeff28-gif/yourtube#how-it-works) · [Read the prototype checks](https://github.com/malhadeff28-gif/yourtube/blob/main/TESTING.md)
 
-<p align="center">
-  <img src="./activity-pulse.svg" alt="Activity pulse: Max's public GitHub contributions over the last 30 days" width="100%" />
-</p>
+### Fantasy Football Lab
 
-<sub>Activity card inspired by <a href="https://github.com/beydemirfurkan/awesome-github-profile">Awesome GitHub Profile</a>. Counts reflect the public GitHub contributions graph and refresh daily.</sub>
-
-### Exploring
-
-[Switchboard Community](https://github.com/malhadeff28-gif/switchboard-community) · Fork of a separate desktop app for organizing Codex and Claude Code sessions.  
-[UI/UX Pro Max](https://github.com/malhadeff28-gif/ui-ux-pro-max-skill) · Fork of a design intelligence toolkit.
+Is a second quarterback worth the draft pick? An eight-season backtest initially made a backup look valuable. When both strategies used the same starter, the backup cost an estimated 10.6 points per season after accounting for the pick. [See the seven comparisons](https://github.com/malhadeff28-gif/fantasy-football/blob/main/qb-pairing/research/QB_PAIRING_RESEARCH.md#12-bench-slot-opportunity-cost) · [Explore the research](https://github.com/malhadeff28-gif/fantasy-football)
